@@ -6,8 +6,8 @@
 
 #define TOTAL_NUMBERS 80
 #define NUMBERS_PER_ROUND 20
-#define SECONDS_TILL_NUMBER 1.0f
-#define SECONDS_PER_ROUND 60.0f // 2 minutes
+#define SECONDS_TILL_NUMBER 2
+#define SECONDS_PER_ROUND 120 // 2 minutes
 
 int* numbers;
 
